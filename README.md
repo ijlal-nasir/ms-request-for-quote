@@ -1,3 +1,3 @@
 ## MS Request for Quotation
 
-A request for Quotation plugin
+A Request for Quotation plugin for MS WordPress Ecommerce Site.
